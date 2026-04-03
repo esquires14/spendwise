@@ -58,8 +58,8 @@ public class SecurityConfig {
         CorsConfiguration configuration = new CorsConfiguration();
         configuration.setAllowedOrigins(List.of(
                 "http://localhost:3000",
-                "spendwise-production-1b0d.up.railway.app",
-                "https://pure-amazement-production-3857.up.railway.app/"
+                "https://spendwise-production-1b0d.up.railway.app",
+                "https://pure-amazement-production-3857.up.railway.app"
         ));
         configuration.setAllowedMethods(
                 Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
