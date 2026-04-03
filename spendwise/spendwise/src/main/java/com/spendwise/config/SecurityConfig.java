@@ -58,7 +58,7 @@ public class SecurityConfig {
         CorsConfiguration configuration = new CorsConfiguration();
         configuration.setAllowedOrigins(List.of(
                 "http://localhost:3000",  // React dev server
-                "https://your-railway-app.up.railway.app" // Railway URL
+                "spendwise-production-1b0d.up.railway.app" // Railway URL
         ));
         configuration.setAllowedMethods(
                 Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
