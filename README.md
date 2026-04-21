@@ -168,7 +168,7 @@ This application is deployed on Railway.
 - **Frontend:** React static site
 - **Database:** PostgreSQL hosted on Railway
 
-Live URL: `https://your-railway-url.up.railway.app`
+Live URL: `https://pure-amazement-production-3857.up.railway.app/login`
 
 ---
 
