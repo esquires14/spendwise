@@ -6,7 +6,7 @@ SpendWise gives users a clear picture of their finances — log transactions, or
 
 🔗 **Live App:** [spendwise on Railway](https://pure-amazement-production-3857.up.railway.app/login)
 
-![SpendWise Dashboard](./screenshots/dashboard.png)
+![SpendWise Dashboard]([./screenshots/dashboard.png](https://github.com/esquires14/spendwise/blob/working_branch/spendwise/screenshots/dashboard.png))
 
 ---
 
